@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UKL</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="masukkan_data_anda">Masukkan data anda</string>
+    <string name="ActivityKedua">Login</string>
+    <string name="login">LOGIN</string>
+</resources>
